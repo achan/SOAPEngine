@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SOAPEngine tvOS/SOAPEngine tvOS.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SOAPEngine Swift/SOAPEngine Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SOAPEngine OSX/SOAPEngine OSX.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SOAPEngine iOS/SOAPEngine iOS.xcodeproj">
+   </FileRef>
+</Workspace>
